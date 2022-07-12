@@ -1,7 +1,7 @@
 {
   "name": "aws-sdk-for-wx-applet",
   "description": "AWS SDK for JavaScript in the Wx Applet",
-  "version": "2.1172.0",
+  "version": "2.1172.0.1",
   "author": {
     "name": "ken",
     "email": "",
