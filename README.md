@@ -2,19 +2,19 @@
 
 ### In the Wx Applet
 
-###安装
+### 安装
 
 ```sh
 npm install aws-sdk-for-wx-applet
 ```
 
-###使用
+### 使用
 
 ```sh
 import S3 from 'aws-sdk-for-wx-applet/clients/s3';
 ```
 
-###上传文件
+### 上传文件
 
 ```javascript
 wx.chooseMessageFile({
